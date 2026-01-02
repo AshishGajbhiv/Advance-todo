@@ -38,7 +38,7 @@ Velocity is a high-performance, visually stunning mission-control interface for 
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/AshishGajbhiv/Advance-todo>
    ```
 
 2. **Install dependencies**:
