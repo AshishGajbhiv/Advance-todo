@@ -4,9 +4,9 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/Advance-todo/',
   plugins: [
     react(),
     tailwindcss(),
   ],
+  base: "/Advance-todo/"
 })
