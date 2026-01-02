@@ -2,7 +2,7 @@
 
 Velocity is a high-performance, visually stunning mission-control interface for your daily objectives. Designed with a "futuristic cockpit" aesthetic, it prioritizes speed, focus, and cognitive energy management.
 
-![Velocity Preview](https://github.com/user-attachments/assets/preview-placeholder)
+![Velocity Preview](https://ashishgajbhiv.github.io/Advance-todo/)
 
 ## 🚀 Key Features
 
