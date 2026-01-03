@@ -73,7 +73,7 @@ const TaskItem = ({ task }) => {
 
                 <button
                     onClick={() => deleteTask(task.id)}
-                    className="p-2 text-zinc-600 hover:text-rose-500 opacity-0 group-hover:opacity-100 transition-all rounded-lg hover:bg-rose-500/10"
+                    className="p-2 text-zinc-600 hover:text-rose-500 opacity-100 group-hover:opacity-100 transition-all rounded-lg hover:bg-rose-500/10"
                 >
                     <Trash2 size={16} />
                 </button>
